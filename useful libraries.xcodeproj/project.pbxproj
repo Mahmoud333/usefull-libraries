@@ -13,6 +13,17 @@
 		1E795FA91F1865C500889783 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E795FA81F1865C500889783 /* Assets.xcassets */; };
 		1E795FAC1F1865C500889783 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E795FAA1F1865C500889783 /* LaunchScreen.storyboard */; };
 		1E795FB71F1865C700889783 /* useful_librariesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FB61F1865C700889783 /* useful_librariesTests.swift */; };
+		1E795FCC1F186B8200889783 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC21F186B8200889783 /* UIButtonX.swift */; };
+		1E795FCD1F186B8200889783 /* UIImageViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC31F186B8200889783 /* UIImageViewX.swift */; };
+		1E795FCE1F186B8200889783 /* UILabelX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC41F186B8200889783 /* UILabelX.swift */; };
+		1E795FCF1F186B8200889783 /* UISliderX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC51F186B8200889783 /* UISliderX.swift */; };
+		1E795FD01F186B8200889783 /* UITextFieldX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC61F186B8200889783 /* UITextFieldX.swift */; };
+		1E795FD11F186B8200889783 /* UIViewAnchorPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC71F186B8200889783 /* UIViewAnchorPoint.swift */; };
+		1E795FD21F186B8200889783 /* UIViewControllerX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC81F186B8200889783 /* UIViewControllerX.swift */; };
+		1E795FD31F186B8200889783 /* UIViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FC91F186B8200889783 /* UIViewX.swift */; };
+		1E795FD41F186B8200889783 /* UIViewXRadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FCA1F186B8200889783 /* UIViewXRadialGradient.swift */; };
+		1E795FD51F186B8200889783 /* UIVisualEffectViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FCB1F186B8200889783 /* UIVisualEffectViewX.swift */; };
+		1E795FD71F186C6400889783 /* Colorify .swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E795FD61F186C6400889783 /* Colorify .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +47,17 @@
 		1E795FB21F1865C700889783 /* useful librariesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "useful librariesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E795FB61F1865C700889783 /* useful_librariesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = useful_librariesTests.swift; sourceTree = "<group>"; };
 		1E795FB81F1865C700889783 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E795FC21F186B8200889783 /* UIButtonX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
+		1E795FC31F186B8200889783 /* UIImageViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewX.swift; sourceTree = "<group>"; };
+		1E795FC41F186B8200889783 /* UILabelX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelX.swift; sourceTree = "<group>"; };
+		1E795FC51F186B8200889783 /* UISliderX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISliderX.swift; sourceTree = "<group>"; };
+		1E795FC61F186B8200889783 /* UITextFieldX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldX.swift; sourceTree = "<group>"; };
+		1E795FC71F186B8200889783 /* UIViewAnchorPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewAnchorPoint.swift; sourceTree = "<group>"; };
+		1E795FC81F186B8200889783 /* UIViewControllerX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerX.swift; sourceTree = "<group>"; };
+		1E795FC91F186B8200889783 /* UIViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewX.swift; sourceTree = "<group>"; };
+		1E795FCA1F186B8200889783 /* UIViewXRadialGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewXRadialGradient.swift; sourceTree = "<group>"; };
+		1E795FCB1F186B8200889783 /* UIVisualEffectViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewX.swift; sourceTree = "<group>"; };
+		1E795FD61F186C6400889783 /* Colorify .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Colorify .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +105,8 @@
 				1E795FA81F1865C500889783 /* Assets.xcassets */,
 				1E795FAA1F1865C500889783 /* LaunchScreen.storyboard */,
 				1E795FAD1F1865C500889783 /* Info.plist */,
+				1E795FC11F186B8200889783 /* DesignableX */,
+				1E795FD61F186C6400889783 /* Colorify .swift */,
 			);
 			path = "useful libraries";
 			sourceTree = "<group>";
@@ -94,6 +118,23 @@
 				1E795FB81F1865C700889783 /* Info.plist */,
 			);
 			path = "useful librariesTests";
+			sourceTree = "<group>";
+		};
+		1E795FC11F186B8200889783 /* DesignableX */ = {
+			isa = PBXGroup;
+			children = (
+				1E795FC21F186B8200889783 /* UIButtonX.swift */,
+				1E795FC31F186B8200889783 /* UIImageViewX.swift */,
+				1E795FC41F186B8200889783 /* UILabelX.swift */,
+				1E795FC51F186B8200889783 /* UISliderX.swift */,
+				1E795FC61F186B8200889783 /* UITextFieldX.swift */,
+				1E795FC71F186B8200889783 /* UIViewAnchorPoint.swift */,
+				1E795FC81F186B8200889783 /* UIViewControllerX.swift */,
+				1E795FC91F186B8200889783 /* UIViewX.swift */,
+				1E795FCA1F186B8200889783 /* UIViewXRadialGradient.swift */,
+				1E795FCB1F186B8200889783 /* UIVisualEffectViewX.swift */,
+			);
+			path = DesignableX;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,8 +242,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E795FD21F186B8200889783 /* UIViewControllerX.swift in Sources */,
+				1E795FD11F186B8200889783 /* UIViewAnchorPoint.swift in Sources */,
+				1E795FD51F186B8200889783 /* UIVisualEffectViewX.swift in Sources */,
 				1E795FA41F1865C500889783 /* ViewController.swift in Sources */,
+				1E795FD71F186C6400889783 /* Colorify .swift in Sources */,
+				1E795FD31F186B8200889783 /* UIViewX.swift in Sources */,
+				1E795FCD1F186B8200889783 /* UIImageViewX.swift in Sources */,
+				1E795FCE1F186B8200889783 /* UILabelX.swift in Sources */,
+				1E795FCF1F186B8200889783 /* UISliderX.swift in Sources */,
+				1E795FD01F186B8200889783 /* UITextFieldX.swift in Sources */,
+				1E795FD41F186B8200889783 /* UIViewXRadialGradient.swift in Sources */,
 				1E795FA21F1865C500889783 /* AppDelegate.swift in Sources */,
+				1E795FCC1F186B8200889783 /* UIButtonX.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
